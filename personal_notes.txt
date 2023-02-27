@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 pesonal note 1
 pesonal note 2
+=======
+pesonal quote 5
+>>>>>>> personal_quotes
