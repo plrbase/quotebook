@@ -1,1 +1,3 @@
-pesonal quote 5
+pesonal note 1
+pesonal note 2
+pesonal note 3
